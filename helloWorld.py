@@ -1,1 +1,3 @@
-print ("hello python");
+print("hello python")
+x = 8
+c = 4
